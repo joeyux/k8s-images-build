@@ -1,2 +1,2 @@
-FROM k8s.gcr.io/kube-apiserver:v1.14.0
+FROM k8s.gcr.io/etcd:3.3.10
 LABEL maintainer="JoeYu, <joeyux@gmail.com>"
